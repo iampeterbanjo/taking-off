@@ -4,7 +4,7 @@ defmodule PhysicsTest do
 
   test "escape velocity of the earth is correct" do
     ev = Physics.Rocketry.escape_velocity(:earth)
-    assert ev === 11.2
+    assert ev === 11.4
   end
 
   test "escape velocity of planet x is correct" do
