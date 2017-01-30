@@ -1,6 +1,7 @@
 # Physics
 
 [![CircleCI](https://circleci.com/gh/iampeterbanjo/taking-off.svg?style=svg)](https://circleci.com/gh/iampeterbanjo/taking-off)
+[ ![Codeship Status for iampeterbanjo/taking-off](https://app.codeship.com/projects/4b377650-c954-0134-c66a-728cdae713d6/status?branch=master)](https://app.codeship.com/projects/199288)
 
 **TODO: Add description**
 
