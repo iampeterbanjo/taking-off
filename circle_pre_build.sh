@@ -25,7 +25,7 @@ asdf install elixir $elixir_version
 
 # Get dependencies
 yes | mix deps.get
-mix local.rebar
+yes | mix local.rebar
 
 # Exit successfully
 exit 0
