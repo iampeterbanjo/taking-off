@@ -13,7 +13,7 @@ asdf plugin-add erlang https://github.com/HashNuke/asdf-erlang.git
 asdf plugin-add elixir https://github.com/HashNuke/asdf-elixir.git
 
 # Extract vars from elixir_buildpack.config
-. elixir_buildpack.config
+. ./elixir_buildpack.config
 
 # Write .tool-versions
 echo “erlang $erlang_version” >> .tool-versions
