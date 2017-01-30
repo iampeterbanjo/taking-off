@@ -1,5 +1,7 @@
 # Physics
 
+[![CircleCI](https://circleci.com/gh/iampeterbanjo/taking-off.svg?style=svg)](https://circleci.com/gh/iampeterbanjo/taking-off)
+
 **TODO: Add description**
 
 ## Installation
