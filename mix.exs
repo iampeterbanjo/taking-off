@@ -27,8 +27,6 @@ defmodule Physics.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    [
-      {:junit_formatter, ">= 0.0.0"}
-    ]
+    []
   end
 end
